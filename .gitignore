@@ -1,4 +1,4 @@
-wp-admin
-wp-include
-wp-content
+wp-admin/
+wp-include/
+wp-content/
 wp-config.php
